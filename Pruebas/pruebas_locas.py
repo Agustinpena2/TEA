@@ -1,9 +1,3 @@
-def fred():
-    print("Zap")
-
-def jane():
-    print("ABC")
-
-jane()
-fred()
-jane()
+n = 5
+while n > 0:
+print (n)
